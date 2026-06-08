@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Deekshitha 👋
 
-<!--
-**deekshithap-07/deekshithap-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Robotics & Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💡 Interested in AI, Robotics, IoT, Mobile App Development, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+* Rentora – Smart Rental Marketplace
+* Cardiac Emergency Detection Wearable (Ongoing)
+* Infant Shop Website
+
+## Technologies
+
+* Flutter
+* HTML
+* CSS
+* Python
+* Supabase
+* Git & GitHub
+
+## Currently Learning
+
+* Artificial Intelligence
+* IoT Systems
+* Full-Stack Development
+
+## Connect With Me
+
+LinkedIn: [www.linkedin.com/in/deekshitha-p-054246298](http://www.linkedin.com/in/deekshitha-p-054246298)

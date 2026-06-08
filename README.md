@@ -7,16 +7,17 @@
 ## Projects
 
 * Rentora – Smart Rental Marketplace
-* Cardiac Emergency Detection Wearable (Ongoing)
+* Internshaala clone
 * Infant Shop Website
+* Student productivity dashboard
+* Job application tracker
 
 ## Technologies
 
-* Flutter
 * HTML
 * CSS
 * Python
-* Supabase
+* Javascript
 * Git & GitHub
 
 ## Currently Learning

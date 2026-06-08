@@ -2,7 +2,7 @@
 
 🎓 B.E. Robotics & Artificial Intelligence Student
 
-💡 Interested in AI, Robotics, IoT, Mobile App Development, and Problem Solving.
+💡 Interested in AI, Robotics, IoT, Web Development, and Problem Solving.
 
 ## Projects
 

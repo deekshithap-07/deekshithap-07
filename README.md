@@ -2,9 +2,9 @@
 
 # `~/deekshitha`
 
-### Robotics & AI Student • Front-End Developer • Builder
+### Robotics & AI Student • Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+practical+web+applications;Exploring+AI+%26+IoT;Learning+Full-Stack+Development;Turning+ideas+into+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Building+responsive+web+applications;Exploring+AI-integrated+tools;Learning+full-stack+development;Turning+ideas+into+working+projects" alt="Typing SVG" />
 
 </div>
 
@@ -12,51 +12,104 @@
 
 ### `~/ about`
 
-Hi, I'm **Deekshitha** 👋
-
-I'm a **Robotics & Artificial Intelligence student at BIT Bengaluru** who enjoys building practical web applications and exploring the intersection of **AI, IoT and software development**.
-
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🎓  Robotics & Artificial Intelligence             │
-│  💻  Front-End Web Development                      │
-│  🤖  Exploring AI & IoT                             │
-│  🚀  Building practical projects                    │
-│  📚  Learning Full-Stack Development                │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+Hi, I'm Deekshitha 👋
+
+Robotics & Artificial Intelligence undergraduate at
+Bangalore Institute of Technology.
+
+Currently working as a Software Development Intern at
+Diginow Solutions, building responsive web applications
+and collaborating with remote Agile teams.
+
+Interested in full-stack development, AI-integrated
+applications and IoT systems.
 ```
 
 ---
 
 ### `~/ toolbox`
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,tailwind,postgres,supabase,git,github" />
 
 </p>
 
 ```text
-Frontend        → HTML • CSS • JavaScript
-Programming     → Python
-Tools           → Git • GitHub • VS Code
-Exploring       → AI • IoT • Full-Stack Development
+Languages       → Java • Python • JavaScript • TypeScript • SQL
+Frontend        → HTML5 • CSS3 • React.js • Tailwind CSS
+Backend / Data  → PostgreSQL • Supabase • REST APIs
+AI / Tools      → Groq API • Streamlit • Git • GitHub
+IoT             → GPS / IoT Integration
 ```
 
 ---
 
-### `~/ featured_projects`
+### `~/ experience`
 
-| Project                               | Description                                               |
-| ------------------------------------- | --------------------------------------------------------- |
-| 🏠 **Rentora**                        | Smart rental marketplace for lifestyle & fashion products |
-| 💼 **Job Application Tracker**        | Track applications, status, progress & saved data         |
-| 📊 **Student Productivity Dashboard** | Responsive productivity dashboard                         |
-| 🎓 **Internshala Clone**              | Front-end recreation using HTML, CSS & JavaScript         |
-| 🍼 **Infant Shop**                    | Responsive static e-commerce website                      |
-| 🌐 **Portfolio**                      | Personal developer portfolio                              |
+**Software Development Intern — Diginow Solutions**
+
+`React.js` `JavaScript` `Tailwind CSS` `Git` `GitHub`
+
+```text
+→ Developing responsive, user-centric web applications
+→ Contributing to client website redesign and development
+→ Building reusable and maintainable UI components
+→ Debugging, testing and optimizing web applications
+→ Collaborating with remote teams in an Agile environment
+```
+
+---
+
+### `~/ projects`
+
+#### 🏠 Rentora
+
+`Frontend Development` `Supabase` `PostgreSQL` `UI Design`
+
+A web-based rental platform enabling users to browse, list and manage rental products through a responsive interface.
+
+#### 🤖 Resume Analyzer AI
+
+`Python` `Streamlit` `Groq API` `Llama 3.3 70B` `pdfplumber` `Plotly`
+
+AI-powered resume analyzer generating role-specific ATS scores, keyword-gap analysis and structured feedback.
+
+#### 🧠 DocuMind — RAG Chatbot
+
+`LangChain` `ChromaDB` `Groq API` `Streamlit`
+
+RAG chatbot that answers questions from user-uploaded PDFs with cited sources using vector retrieval.
+
+#### ❤️ Cardiac Abnormality Detection Wearable
+
+`IoT` `ECG` `Motion Sensors` `System Design`
+
+Ongoing IoT wearable system designed for real-time cardiac monitoring and predictive alerts.
+
+---
+
+### `~/ certifications`
+
+```text
+01  Artificial Intelligence & Machine Learning
+    Infosys Springboard • 2025
+
+02  Machine Learning A–Z using Python
+    2025
+
+03  Web Development
+    Elevance Skills • 2026
+```
+
+---
+
+### `~/ leadership`
+
+**Creative Committee Head — Robotics Club**
+
+Planning and executing branding, promotional campaigns and creative initiatives for technical events while collaborating with cross-functional student teams.
 
 ---
 
@@ -80,27 +133,22 @@ Exploring       → AI • IoT • Full-Stack Development
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshithap-07&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
 ---
 
 ### `~/ currently`
 
 ```text
-┌─ learning
-│  ├── Artificial Intelligence
-│  ├── IoT Systems
-│  └── Full-Stack Development
+┌─ exploring
+│  ├── Full-Stack Development
+│  ├── AI-integrated Applications
+│  └── RAG / LLM Applications
 │
 ├─ building
-│  └── Practical web applications
+│  ├── AI Applications
+│  └── IoT Systems
 │
 └─ goal
-   └── Become a strong software developer
+   └── Grow as a Software Developer
 ```
 
 ---
@@ -123,10 +171,6 @@ Exploring       → AI • IoT • Full-Stack Development
 
 <div align="center">
 
-```text
-"Build. Learn. Improve. Repeat."
-```
-
-⭐ If you find something interesting here, feel free to explore my repositories.
+`Build • Learn • Improve • Repeat`
 
 </div>

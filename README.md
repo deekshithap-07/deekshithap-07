@@ -76,6 +76,12 @@ Exploring       → AI • IoT • Full-Stack Development
 
 <div align="center">
 
+<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D GitHub Contribution Graph"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshithap-07&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
 </div>

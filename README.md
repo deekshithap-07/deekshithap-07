@@ -1,169 +1,112 @@
 <div align="center">
 
-# `~/deekshitha`
+<!-- ==================== PORTRAIT ==================== -->
 
-### Robotics & AI Student • Software Developer
+<img src="assets/portrait.svg" width="180" alt="Deekshitha"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Building+responsive+web+applications;Exploring+AI-integrated+tools;Learning+full-stack+development;Turning+ideas+into+working+projects" alt="Typing SVG" />
+<br>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Deekshitha+P;Robotics+%26+AI+Undergraduate;Software+Development+Intern;Full-Stack+%26+AI+Developer" alt="Typing banner"/>
 
----
-
-### `~/ about`
-
-```text
-Hi, I'm Deekshitha 👋
-
-Robotics & Artificial Intelligence undergraduate at
-Bangalore Institute of Technology.
-
-Currently working as a Software Development Intern at
-Diginow Solutions, building responsive web applications
-and collaborating with remote Agile teams.
-
-Interested in full-stack development, AI-integrated
-applications and IoT systems.
-```
-
----
-
-### `~/ toolbox`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,tailwind,postgres,supabase,git,github" />
-
-</p>
-
-```text
-Languages       → Java • Python • JavaScript • TypeScript • SQL
-Frontend        → HTML5 • CSS3 • React.js • Tailwind CSS
-Backend / Data  → PostgreSQL • Supabase • REST APIs
-AI / Tools      → Groq API • Streamlit • Git • GitHub
-IoT             → GPS / IoT Integration
-```
-
----
-
-### `~/ experience`
-
-**Software Development Intern — Diginow Solutions**
-
-`React.js` `JavaScript` `Tailwind CSS` `Git` `GitHub`
-
-```text
-→ Developing responsive, user-centric web applications
-→ Contributing to client website redesign and development
-→ Building reusable and maintainable UI components
-→ Debugging, testing and optimizing web applications
-→ Collaborating with remote teams in an Agile environment
-```
-
----
-
-### `~/ projects`
-
-#### 🏠 Rentora
-
-`Frontend Development` `Supabase` `PostgreSQL` `UI Design`
-
-A web-based rental platform enabling users to browse, list and manage rental products through a responsive interface.
-
-#### 🤖 Resume Analyzer AI
-
-`Python` `Streamlit` `Groq API` `Llama 3.3 70B` `pdfplumber` `Plotly`
-
-AI-powered resume analyzer generating role-specific ATS scores, keyword-gap analysis and structured feedback.
-
-#### 🧠 DocuMind — RAG Chatbot
-
-`LangChain` `ChromaDB` `Groq API` `Streamlit`
-
-RAG chatbot that answers questions from user-uploaded PDFs with cited sources using vector retrieval.
-
-#### ❤️ Cardiac Abnormality Detection Wearable
-
-`IoT` `ECG` `Motion Sensors` `System Design`
-
-Ongoing IoT wearable system designed for real-time cardiac monitoring and predictive alerts.
-
----
-
-### `~/ certifications`
-
-```text
-01  Artificial Intelligence & Machine Learning
-    Infosys Springboard • 2025
-
-02  Machine Learning A–Z using Python
-    2025
-
-03  Web Development
-    Elevance Skills • 2026
-```
-
----
-
-### `~/ leadership`
-
-**Creative Committee Head — Robotics Club**
-
-Planning and executing branding, promotional campaigns and creative initiatives for technical events while collaborating with cross-functional student teams.
-
----
-
-### `~/ github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deekshithap-07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithap-07&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</div>
-
----
-
-### `~/ contribution_radar`
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D GitHub Contribution Graph"/>
-
-</div>
-
----
-
-### `~/ currently`
-
-```text
-┌─ exploring
-│  ├── Full-Stack Development
-│  ├── AI-integrated Applications
-│  └── RAG / LLM Applications
-│
-├─ building
-│  ├── AI Applications
-│  └── IoT Systems
-│
-└─ goal
-   └── Grow as a Software Developer
-```
-
----
-
-### `~/ connect`
-
-<div align="center">
+<br>
 
 <a href="https://github.com/deekshithap-07">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/deekshitha-p-054246298/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:deekshashivu@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=deekshithap-07&color=39d353&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+---
+
+## `~/` whoami
+
+```console
+$ cat about.txt
+```
+
+Hi, I'm **Deekshitha P**, a Robotics & Artificial Intelligence undergraduate at **Bangalore Institute of Technology**, currently working as a **Software Development Intern at Diginow Solutions**.
+
+I build responsive web applications and I'm exploring the intersection of **full-stack development, AI-integrated applications and IoT systems**.
+
+* 🎓 B.E. Robotics & Artificial Intelligence · 2023–2027
+* 💼 Software Development Intern · Diginow Solutions
+* 🔨 Currently building **AI, RAG and IoT projects**
+* 📚 Learning **full-stack development and AI-integrated tools**
+
+---
+
+## `~/ toolbox`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,tailwind,html,css,postgres,supabase,git,github,vscode&perline=7" alt="Technical skills"/>
+
+</div>
+
+```text
+LANGUAGES
+Java · Python · JavaScript · TypeScript · SQL
+
+FRONTEND
+HTML5 · CSS3 · React.js · Tailwind CSS
+
+BACKEND / DATABASE
+PostgreSQL · Supabase · REST APIs
+
+AI / DEVELOPMENT TOOLS
+Groq API · Streamlit · Git · GitHub
+
+IOT
+GPS / IoT Integration
+```
+
+---
+
+## `~/ skill radar`
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### Self-rated
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+<img src="assets/radar-dark.svg" width="400" alt="Self-rated skill radar">
+</picture>
+
+</td>
+
+<td width="50%" align="center">
+
+### From my repositories
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+<img src="assets/radar-langs-dark.svg" width="400" alt="Repository language radar">
+</picture>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `~/ contribution graph`
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D GitHub contribution graph"/>
 
 </div>
 
@@ -171,6 +114,182 @@ Planning and executing branding, promotional campaigns and creative initiatives 
 
 <div align="center">
 
-`Build • Learn • Improve • Repeat`
+<img src="https://raw.githubusercontent.com/deekshithap-07/deekshithap-07/output/snake-dark.svg" width="95%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## `~/ github numbers`
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+<img src="assets/stats-dark.svg" width="800" alt="GitHub statistics">
+</picture>
+
+</div>
+
+---
+
+## `~/ achievements`
+
+```text
+01  Artificial Intelligence & Machine Learning
+    Infosys Springboard · 2025
+
+02  Machine Learning A–Z using Python
+    2025
+
+03  Web Development
+    Elevance Skills · 2026
+
+04  Creative Committee Head
+    Robotics Club · Bangalore Institute of Technology
+```
+
+---
+
+## `~/ featured projects`
+
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/deekshithap-07/RENTORA_REPOSITORY">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-rentora-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-rentora-light.svg">
+<img src="assets/card-rentora-dark.svg" width="420" alt="Rentora">
+</picture>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/deekshithap-07/RESUME_ANALYZER_REPOSITORY">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-resume-analyzer-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-resume-analyzer-light.svg">
+<img src="assets/card-resume-analyzer-dark.svg" width="420" alt="Resume Analyzer AI">
+</picture>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/deekshithap-07/DOCUMIND_REPOSITORY">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-documind-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-documind-light.svg">
+<img src="assets/card-documind-dark.svg" width="420" alt="DocuMind RAG Chatbot">
+</picture>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/deekshithap-07/CARDIAC_WEARABLE_REPOSITORY">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-cardiac-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-cardiac-light.svg">
+<img src="assets/card-cardiac-dark.svg" width="420" alt="Cardiac Abnormality Detection Wearable">
+</picture>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<sub>
+
+🏠 <a href="https://github.com/deekshithap-07/RENTORA_REPOSITORY">Rentora</a> ·
+🤖 <a href="https://github.com/deekshithap-07/RESUME_ANALYZER_REPOSITORY">Resume Analyzer AI</a> ·
+🧠 <a href="https://github.com/deekshithap-07/DOCUMIND_REPOSITORY">DocuMind – RAG Chatbot</a> ·
+❤️ <a href="https://github.com/deekshithap-07/CARDIAC_WEARABLE_REPOSITORY">Cardiac Detection Wearable</a>
+
+</sub>
+
+---
+
+## `~/ currently`
+
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  BUILDING                                        │
+│  ├── AI-powered applications                    │
+│  ├── RAG / LLM applications                     │
+│  └── IoT systems                                │
+│                                                  │
+│  LEARNING                                        │
+│  ├── Full-Stack Development                     │
+│  ├── AI-integrated tools                        │
+│  └── Modern software engineering                │
+│                                                  │
+│  INTERESTS                                       │
+│  ├── Artificial Intelligence                    │
+│  ├── Web Development                            │
+│  └── Robotics & IoT                             │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+---
+
+## `~/ experience`
+
+### Software Development Intern · Diginow Solutions
+
+`React.js` `JavaScript` `Tailwind CSS` `Git` `GitHub`
+
+* Developing responsive, user-centric web applications.
+* Contributing to the redesign and development of a client public website.
+* Building reusable and maintainable UI components.
+* Debugging, testing and optimizing web applications.
+* Collaborating with remote development teams using Git and GitHub.
+* Participating in feature development, code reviews and Agile iteration.
+
+---
+
+## `~/ project stack`
+
+| Project                        | Technologies                                                        |
+| ------------------------------ | ------------------------------------------------------------------- |
+| **Rentora**                    | Supabase · PostgreSQL · Frontend Development · UI Design            |
+| **Resume Analyzer AI**         | Python · Streamlit · Groq API · Llama 3.3 70B · pdfplumber · Plotly |
+| **DocuMind – RAG Chatbot**     | LangChain · ChromaDB · Groq API · Streamlit                         |
+| **Cardiac Detection Wearable** | IoT · ECG · Motion Sensors · System Design                          |
+
+---
+
+<div align="center">
+
+### `build • learn • improve`
+
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with-code-39D353?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>

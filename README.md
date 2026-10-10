@@ -68,12 +68,28 @@ GPS / IoT Integration
 
 ---
 
-## `~/ skill radar`
+### `~/ skill radar`
 
 <table>
-<tr>
-
-<td width="50%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Self-rated</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+        <img src="assets/radar-dark.svg" width="400" alt="Self-rated skill radar">
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <h3>From my repositories</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+        <img src="assets/radar-langs-dark.svg" width="400" alt="Repository language radar">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ### Self-rated
 

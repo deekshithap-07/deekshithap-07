@@ -109,17 +109,7 @@ GPS / IoT Integration
 
 ---
 
-## `~/ github numbers`
 
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=deekshithap-07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="800" alt="GitHub statistics"/>
-
-
-</div>
-
----
 
 ## `~/ achievements`
 

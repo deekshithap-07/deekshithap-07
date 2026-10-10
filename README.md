@@ -104,7 +104,6 @@ GPS / IoT Integration
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deekshithap-07/deekshithap-07/output/snake-dark.svg" width="95%" alt="GitHub contribution snake"/>
 
 </div>
 

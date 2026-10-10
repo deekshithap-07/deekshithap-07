@@ -114,11 +114,9 @@ GPS / IoT Integration
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-<img src="assets/stats-dark.svg" width="800" alt="GitHub statistics">
-</picture>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deekshithap-07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="800" alt="GitHub statistics"/>
+
 
 </div>
 

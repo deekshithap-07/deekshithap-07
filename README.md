@@ -139,86 +139,21 @@ GPS / IoT Integration
 
 ---
 
-## `~/ featured projects`
 
-<table>
-<tr>
+### `~/ featured projects`
 
-<td width="50%">
+<div align="center">
 
-<a href="https://github.com/deekshithap-07/RENTORA_REPOSITORY">
+<a href="https://github.com/deekshithap-07/RENTORA_REPOSITORY">🏠 Rentora</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/deekshithap-07/RESUME_ANALYZER_REPOSITORY">🤖 Resume Analyzer AI</a>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/card-rentora-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/card-rentora-light.svg">
-<img src="assets/card-rentora-dark.svg" width="420" alt="Rentora">
-</picture>
+<a href="https://github.com/deekshithap-07/DOCUMIND_REPOSITORY">🧠 DocuMind – RAG Chatbot</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/deekshithap-07/CARDIAC_WEARABLE_REPOSITORY">❤️ Cardiac Abnormality Detection Wearable</a>
 
-</a>
+</div>
 
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/deekshithap-07/RESUME_ANALYZER_REPOSITORY">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/card-resume-analyzer-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/card-resume-analyzer-light.svg">
-<img src="assets/card-resume-analyzer-dark.svg" width="420" alt="Resume Analyzer AI">
-</picture>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/deekshithap-07/DOCUMIND_REPOSITORY">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/card-documind-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/card-documind-light.svg">
-<img src="assets/card-documind-dark.svg" width="420" alt="DocuMind RAG Chatbot">
-</picture>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/deekshithap-07/CARDIAC_WEARABLE_REPOSITORY">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/card-cardiac-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/card-cardiac-light.svg">
-<img src="assets/card-cardiac-dark.svg" width="420" alt="Cardiac Abnormality Detection Wearable">
-</picture>
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<sub>
-
-🏠 <a href="https://github.com/deekshithap-07/RENTORA_REPOSITORY">Rentora</a> ·
-🤖 <a href="https://github.com/deekshithap-07/RESUME_ANALYZER_REPOSITORY">Resume Analyzer AI</a> ·
-🧠 <a href="https://github.com/deekshithap-07/DOCUMIND_REPOSITORY">DocuMind – RAG Chatbot</a> ·
-❤️ <a href="https://github.com/deekshithap-07/CARDIAC_WEARABLE_REPOSITORY">Cardiac Detection Wearable</a>
-
-</sub>
-
----
 
 ## `~/ currently`
 

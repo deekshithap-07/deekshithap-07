@@ -74,25 +74,18 @@ GPS / IoT Integration
 <table>
   <tr>
     <td width="50%" align="center">
-
       <h3>Self-rated</h3>
-
-      <img src="assets/radar-dark.svg"
-           width="400"
-           alt="Self-rated skill radar"/>
-
+      <img src="assets/radar-dark.svg" width="350" alt="Self-rated skill radar"/>
     </td>
     <td width="50%" align="center">
-
       <h3>From my repositories</h3>
-
-      <img src="assets/radar-langs-dark.svg"
-           width="400"
-           alt="Repository language radar"/>
-
+      <img src="assets/radar-langs-dark.svg" width="350" alt="Repository language radar"/>
     </td>
   </tr>
 </table>
+
+
+   
 
     
 

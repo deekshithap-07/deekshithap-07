@@ -2,7 +2,6 @@
 
 <!-- ==================== PORTRAIT ==================== -->
 
-<img src="assets/portrait.svg" width="180" alt="Deekshitha"/>
 
 <br>
 
